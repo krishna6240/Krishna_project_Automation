@@ -11,7 +11,9 @@ public class KP_Project1 {
         String getTitle = driver.getTitle();
         System.out.println(getTitle);
     }
-   public void  method(){
 
-        }
+    public void method() {
+        System.out.println("hinal1");
+
     }
+}
