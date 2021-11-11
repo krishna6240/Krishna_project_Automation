@@ -10,7 +10,8 @@ public class KP_Project1 {
         driver.manage().window().maximize();//maximise
         String getTitle = driver.getTitle();
         System.out.println(getTitle);
-        driver.close();
-
     }
-}
+   public void  method(){
+
+        }
+    }
